@@ -1,7 +1,7 @@
 # # Language Models with LSTM
 Language model from scratch using Long Short-Term Memory (LSTM) networks with Pytorch
 
-Please take a look at the pdf for an insightful explaination with figures.
+* ***Please take a look at the pdf for an insightful explaination with figures.***
 
 The project is divided into several sections:
 
